@@ -11,3 +11,5 @@ I started in JS, with the sample input as an inline string. Then when I saw the 
 
 When I was porting to elixir I decided to split them into separate plain text files, sample.1 and input.1.
 
+### Day 2
+After pondering the puzzle for a bit I decided that it basically came down to a lookup table for each possible input
